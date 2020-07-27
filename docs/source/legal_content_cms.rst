@@ -18,7 +18,7 @@ Known Workarounds
 
 Redirect "Service unavailable"
 --------------------------------
-If you get a fast loading "service unavailable" message this is usually a redirect issue. (this is different than the "temporarily unavailable" message
+If you get a fast loading "Service unavailable" message this is usually a redirect issue. (This is different than the "temporarily unavailable" message.)
 
 .. image:: ../assets/service-unavailable.png
 
