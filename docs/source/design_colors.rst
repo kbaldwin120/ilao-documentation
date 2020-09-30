@@ -37,7 +37,7 @@ Used in:
 Support Colors
 ================
 
-These are colors used in various messages on the website.  
+These are the colors used in various messages on the website.  
 
 Warning yellow
 ----------------
